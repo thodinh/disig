@@ -1,0 +1,12 @@
+{
+  "name": "disig",
+  "version": "1.0.0",
+  "description": "Digital Signature",
+  "main": "sign.js",
+  "author": "Tho Dinh <thodinh@innoria.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "qrcode": "^1.3.3"
+  }
+}
